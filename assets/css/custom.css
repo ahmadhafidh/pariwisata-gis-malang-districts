@@ -1,0 +1,28 @@
+/* 
+ * Not required. 
+ * Example page CSS
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:300);
+
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1, p{
+    margin:0 auto;
+    width:80%;
+
+}
+
+h1{ 
+    text-align: center;
+}
+
+p{ 
+    text-indent: 30px;
+    text-align: justify;
+}
+ .checkbox{
+	 padding: 10px 10px 10px 10px;
+ }
